@@ -61,15 +61,12 @@
 
 
 
-<details>
+# 📊 GitHub Status
 
-    <summary><h2>📊 GitHub Status</h2></summary>
-    <a href="https://https://github.com/JeffreyYou"><img src="https://github-readme-stats.vercel.app/api?username=jeffreyYou&hide=contribs&show_icons=true&theme=dracula"></a>
-    
-    <a href="https://https://github.com/JeffreyYou"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact"></a>
-    
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffreyYou&hide=contribs&show_icons=true&theme=buefy&hide_border=true" alt=""/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact&hide_border=true" alt=""/> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-</details>
+
 
 # Repositories:
 
