@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&width=435&lines=Hello+World!" alt="Typing SVG" />
+</p>
+
+### Hi there, I am Jeffrey You 👋
 
 <!--
 **JeffreyYou/JeffreyYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
