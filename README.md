@@ -1,3 +1,5 @@
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+
 <p align="center"><img width="45%" src="./assets/header.png" /></p>
 
 
@@ -82,13 +84,4 @@ Thank you for taking the time to read my resume, I hope we have a chance to work
 
 
 
-
-
-
-
-
-
-
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
