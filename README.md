@@ -4,8 +4,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FF5779&background=FFFFFF00&center=true&width=435&lines=Stay+Hungry+Stay+Foolish;And+Never+Settle" alt="Typing SVG" />
 </p>
-# About Me
+# :dizzy: About Me
 
+:rocket: My name is Jeffrey You, I am a Java full-stack developer
+
+
+:volcano:  Java / Spring / React / TypeScript 
 
 
 
