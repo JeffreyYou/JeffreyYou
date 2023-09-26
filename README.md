@@ -19,7 +19,7 @@
 
 <a href="mailto:yqse521749@gmail.com">
 <img height="30" src="https://img.shields.io/badge/JeffreyYou-c14438?style=for-the-badge&logo=gmail&logoColor=white">
-</a> <a href="www.linkedin.com/in/jeffreyyou-540610103"><img height="30" src="https://img.shields.io/badge/-JeffreyYou-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/jeffreyyou-540610103"><img height="30" src="https://img.shields.io/badge/-JeffreyYou-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
 
@@ -64,7 +64,6 @@
 <details>
     <summary><h2>📊 GitHub Status</h2></summary>
     <a href="https://https://github.com/JeffreyYou"><img src="https://github-readme-stats.vercel.app/api?username=jeffreyYou&hide=contribs&show_icons=true&theme=dracula"></a>
-
 </details>
 
 # Repositories:
