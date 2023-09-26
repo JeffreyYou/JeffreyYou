@@ -11,11 +11,11 @@
 
 :rocket: My name is Jeffrey You, I am a Java full-stack developer. <br/>
 
-<img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
-
 :volcano:  Java / Spring / React / TypeScript <br/>
 
+<img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
 
+:zap: Debug The World
 
 # Reach Me On:
 
@@ -65,7 +65,7 @@
 
 # 📊 GitHub Status
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffreyYou&hide=contribs&show_icons=true&theme=buefy&hide_border=true" alt=""/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact&hide_border=true" alt=""/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffreyYou&hide=contribs&show_icons=true&theme=buefy&hide_border=true&count_private=false" alt=""/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact&hide_border=true" alt=""/> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
