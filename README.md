@@ -7,7 +7,7 @@
 
 # :dizzy: About Me
 
-:rocket: My name is Jeffrey You, I am a Java full-stack developer <br/>
+:rocket: My name is Jeffrey You, I am a Java full-stack developer. <br/>
 
 <img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
 
@@ -62,8 +62,13 @@
 
 
 <details>
+
     <summary><h2>📊 GitHub Status</h2></summary>
     <a href="https://https://github.com/JeffreyYou"><img src="https://github-readme-stats.vercel.app/api?username=jeffreyYou&hide=contribs&show_icons=true&theme=dracula"></a>
+    
+    <a href="https://https://github.com/JeffreyYou"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact"></a>
+    
+
 </details>
 
 # Repositories:
