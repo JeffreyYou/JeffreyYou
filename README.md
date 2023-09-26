@@ -4,31 +4,22 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FF5779&background=FFFFFF00&center=true&width=435&lines=Stay+Hungry+Stay+Foolish;And+Never+Settle" alt="Typing SVG" />
 </p>
-### Hi there, I am Jeffrey You 👋
+# About Me
 
 
 
 
 
+# Reach Me On:
+
+<a href="mailto:yqse521749@gmail.com">
+<img height="30" src="https://img.shields.io/badge/JeffreyYou-c14438?style=for-the-badge&logo=gmail&logoColor=white">
+</a> <a href="www.linkedin.com/in/jeffreyyou-540610103"><img height="30" src="https://img.shields.io/badge/-JeffreyYou-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# :computer: Tech Stack
 
 
 
