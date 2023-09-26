@@ -24,10 +24,20 @@
 
 # :computer: Tech Stack
 
-**Java：**[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=springboot&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&link=hhttps://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
+**Java：**
 
-**JavaScript：**[![JavaScript](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog) ![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-C71A36.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=springboot&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&link=hhttps://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
 
+**JavaScript：**
+[![JavaScript](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
+![NPM](https://img.shields.io/badge/NPM-C71A36.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2335495e.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB)
 
 **Database：**
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
@@ -40,18 +50,15 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 [![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=for-the-badge&logo=jenkins&link=hhttps://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
 
 **Tools：**
 ![Idea](https://img.shields.io/badge/Idea-black?style=for-the-badge&logo=idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-[![JSON](https://img.shields.io/badge/-JSON-lightgray?style=for-the-badge&logo=json&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
-[![XML](https://img.shields.io/badge/-XML-orange?style=for-the-badge&logo=xml&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
+
+
 
 
 
