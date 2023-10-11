@@ -29,21 +29,21 @@
 # :computer: Tech Stack
 
 **Java：**
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/BrodyYoung/springcloud)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=springboot&link=https://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&link=hhttps://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
+![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=springboot&link=https://github.com/BrodyYoung/springcloud)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&link=hhttps://github.com/BrodyYoung/springcloud)
 
 **JavaScript：**
-[![JavaScript](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
+![JavaScript](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript&link=https://github.com/BrodyYoung/yunblog)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/BrodyYoung/yunblog)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/BrodyYoung/yunblog)
 ![NPM](https://img.shields.io/badge/NPM-C71A36.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2335495e.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB)
 
 **Database：**
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&link=https://github.com/BrodyYoung/yunblog)](https://github.com/BrodyYoung/yunblog)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&link=https://github.com/BrodyYoung/yunblog)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
@@ -54,7 +54,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=for-the-badge&logo=jenkins&link=hhttps://github.com/BrodyYoung/springcloud)](https://github.com/BrodyYoung/springcloud)
+![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=for-the-badge&logo=jenkins&link=hhttps://github.com/BrodyYoung/springcloud)
 
 **Tools：**
 ![Idea](https://img.shields.io/badge/Idea-black?style=for-the-badge&logo=idea&logoColor=white)
@@ -62,17 +62,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
-# 📊 GitHub Status
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffreyYou&hide=contribs&show_icons=true&theme=buefy&hide_border=true&count_private=false" alt=""/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact&hide_border=true" alt=""/> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
-
-# 📊 Repositories:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffreyYou&repo=markdown_badge)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
