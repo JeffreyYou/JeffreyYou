@@ -6,12 +6,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FF5779&background=FFFFFF00&center=true&width=435&lines=Stay+Hungry+Stay+Foolish;And+Never+Settle" alt="Typing SVG" />
 </p>
-
 # :dizzy: About Me
 
-:rocket: My name is Jeffrey You, I am a Java full-stack developer. <br/>
+:rocket: My name is Jeffrey You, I am a full-stack software engineer. <br/>
 
-:volcano:  Java / Spring / React / TypeScript <br/>
+:volcano:  Java / Spring Boot / React / TypeScript <br/>
 
 <img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
 
@@ -21,7 +20,7 @@
 
 <a href="mailto:yqse521749@gmail.com">
 <img height="30" src="https://img.shields.io/badge/JeffreyYou-c14438?style=for-the-badge&logo=gmail&logoColor=white">
-</a> <a href="https://www.linkedin.com/in/jeffreyyou-540610103"><img height="30" src="https://img.shields.io/badge/-JeffreyYou-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/jeffreyyouusc"><img height="30" src="https://img.shields.io/badge/-JeffreyYou-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
 
@@ -29,10 +28,10 @@
 # :computer: Tech Stack
 
 **Java：**
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/BrodyYoung/springcloud)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=springboot&link=https://github.com/BrodyYoung/springcloud)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&link=hhttps://github.com/BrodyYoung/springcloud)
+<code>![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/BrodyYoung/springcloud)</code>
+<code>![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)</code>
+<code>![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=springboot)</code>
+<code>![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&link=hhttps://github.com/BrodyYoung/springcloud)</code>
 
 **JavaScript：**
 ![JavaScript](https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript&link=https://github.com/BrodyYoung/yunblog)
@@ -67,10 +66,21 @@
 
 # 💬 Acknowledgement
 
-Thank you for taking the time to read my resume, I hope we have a chance to work together.
+Thank you for taking the time to view my profile. It's been a pleasure to share my work with you, and I hope it has sparked an interest in what we can achieve together. Have a nice day!
 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="100"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+### 🏠 Website:
+
+- **[Personal Website:](https://jeffreyyou.com/website)**
+- **[Digital Human](https://jeffreyyou.com)**
+
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffreyYou&show_icons=true&theme=buefy&hide_border=true&hide=contribs" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffreyYou&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
