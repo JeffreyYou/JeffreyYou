@@ -50,7 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Redis](https://img.shields.io/badge/Hibernate-#F6C915.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-F6C915.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **DevOps：**
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,7 +61,7 @@
 ![Jenkins](https://img.shields.io/badge/githubactions-gray?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Tools：**
-![Idea](https://img.shields.io/badge/Idea-black?style=for-the-badge&logo=intellijidea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/AWS-DD344C.svg?style=for-the-badge&logo=amazonecs&logoColor=white)
