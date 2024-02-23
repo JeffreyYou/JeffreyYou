@@ -27,7 +27,7 @@
 
 
 
-# :computer: Tech Stack
+# Tech Stack:
 
 **Java：**
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=white&link=https://github.com/BrodyYoung/springcloud)
