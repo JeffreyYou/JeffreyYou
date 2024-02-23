@@ -6,8 +6,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FF5779&background=FFFFFF00&center=true&width=435&lines=Stay+Hungry+Stay+Foolish;And+Never+Settle" alt="Typing SVG" />
 </p>
-
-## :dizzy: About Me
+# :dizzy: About Me
 
 :rocket: My name is Jeffrey You, I am a full-stack software devel. <br/>
 
@@ -17,7 +16,7 @@
 
 :zap: Debug The World
 
-## Reach Me On:
+# Reach Me On:
 
 <a href="mailto:yqse521749@gmail.com">
 <img height="30" src="https://img.shields.io/badge/JeffreyYou-c14438?style=for-the-badge&logo=gmail&logoColor=white">
@@ -26,7 +25,7 @@
 
 
 
-## :computer: Tech Stack
+# :computer: Tech Stack
 
 **Java：**
 <code>![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/BrodyYoung/springcloud)</code>
@@ -67,18 +66,17 @@
 
 💬 Thank you for taking the time to view my profile. It's been a pleasure to share my work with you, and I hope it has sparked an interest in what we can achieve together. Have a nice day!
 
-## 🏠 Website:
+### 🏠 Website:
 
 - **[Personal Website:](https://jeffreyyou.com/website)**
 - **[Digital Human](https://jeffreyyou.com)**
 
-## 📊 Stats:
+### 📊 Stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffreyYou&show_icons=true&theme=buefy&hide_border=true&hide=contribs" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyYou&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-
-## 📈 Activity Graph:
+### 📈 Activity Graph:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffreyYou&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
 
