@@ -61,9 +61,10 @@
 ![Jenkins](https://img.shields.io/badge/githubactions-gray?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Tools：**
-![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea&logoColor=white)
+![IDEA](https://img.shields.io/badge/IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-212721?style=for-the-badge&logo=vim&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-57A143?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/AWS-DD344C.svg?style=for-the-badge&logo=amazonecs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=JIRA&logoColor=white)
