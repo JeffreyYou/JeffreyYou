@@ -12,10 +12,9 @@
 
 :rocket: My name is Jeffrey You, I am a full-stack software devel. <br/>
 
-:volcano:  Java / Spring Boot / React / TypeScript <br/>
-
 <img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
 
+:volcano:  Java / Spring Boot / React / TypeScript <br/>
 
 :zap: Debug The World
 
