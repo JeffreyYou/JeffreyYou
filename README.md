@@ -16,7 +16,8 @@
 
 <img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
 
-:zap: Debug The World<br/>
+
+:zap: Debug The World
 
 # Reach Me On:
 
