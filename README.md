@@ -10,7 +10,7 @@
 
 # :dizzy: About Me
 
-:rocket: My name is Jeffrey You, I am a full-stack software devel. <br/>
+:rocket: My name is Jeffrey You, I am a full-stack software developer. <br/>
 
 <img  align="right"  alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="20%"/>
 
